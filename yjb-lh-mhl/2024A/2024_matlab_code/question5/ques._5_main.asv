@@ -1,0 +1,8 @@
+t = 100;
+dt = 0.1;
+n = round(16*0.55/1.7)
+for v = 1:0.01:2
+  [~, ~, ~, v0] = prepare_2(t, dx, dt, n);
+ for j = 1:224
+     for i = 1:1001 
+end
