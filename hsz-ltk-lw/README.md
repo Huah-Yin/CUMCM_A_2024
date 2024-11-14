@@ -121,8 +121,7 @@ $$
 \begin{pmatrix}
 x_1(\theta)\\
 y_1(\theta)
-\end{pmatrix}
-=
+\end{pmatrix}=
 \begin{pmatrix}
 \cos{\gamma}	& -\sin{\gamma}\\
 \sin{\gamma}	& \cos{\gamma}
@@ -763,8 +762,7 @@ $$
 \begin{pmatrix}
 x_i^{'} \\
 y_i^{'}
-\end{pmatrix}
-=
+\end{pmatrix}=
 \begin{pmatrix}
 \cos{\gamma} & -\sin{\gamma}\\
 \sin{\gamma} & \cos{\gamma}
